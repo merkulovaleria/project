@@ -1,0 +1,2 @@
+[example]
+127.0.0.1 ansible_ssh_user=vagrant ansible_port=2222 ansible_ssh_private_key_file=/Users/valeriiam/.ssh/vagrant
